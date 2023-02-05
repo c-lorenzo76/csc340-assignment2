@@ -1,1 +1,1 @@
-# csc340-assingment2
+# csc340-assignment2
